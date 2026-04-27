@@ -47,6 +47,10 @@ This runs the backup every day at **01:00 AM**.
 
 ---
 
+## 📊 Architecture 
+ ![ERP Azure Architecture](https://github.com/jkaljokey-hub/Automated-Linux-Backup-to-Azure-BlobStorage/blob/main/docs/backup.png?raw=true)
+
+---
 ## 🏗 Architecture Diagram
 
 The system uses:
@@ -59,8 +63,6 @@ The system uses:
 - Azure Monitor alerts  
 - Email notifications  
 - Azure Backup (Recovery Services Vault)  
-
-![Architecture Diagram](docs/architecture-diagram.png)
 
 ---
 
