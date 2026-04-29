@@ -107,3 +107,12 @@ sudo  backup.sh
 
 sudo  restore.sh
 
+
+### These two systems solve different problems:
+
+| Cron Backup | Azure Backup |
+| --- | --- |
+| File‑level | Full VM |
+| Custom automation | Built‑in Azure service |
+| Fast + flexible | Reliable + disaster recovery |
+| Protects configs, logs, apps | Protects the whole machine |
