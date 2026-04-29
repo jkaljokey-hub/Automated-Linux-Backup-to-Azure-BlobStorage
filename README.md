@@ -33,7 +33,7 @@ The goal is to provide a **simple, automated, and cloud‑integrated backup work
 - Logs success or failure  
 
 ### **2. restore.sh**
-- Lists all available backup files in the Blob container  
+- Lists all available backup files in the Blob containers
 - Downloads the selected version  
 - Extracts the ZIP archive  
 - Restores files to the original directory  
